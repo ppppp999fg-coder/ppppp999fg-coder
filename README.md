@@ -4,6 +4,8 @@
 
 [![An image of @ppppp999fgcoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ppppp999fgcoder)](https://holopin.io/@ppppp999fgcoder)
 
+<br>
+<br>
 
 ### Plans
 - 🔭 I’m currently working on becoming a **Web Developer**
