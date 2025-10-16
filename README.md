@@ -3,3 +3,9 @@
 
 
 [![An image of @ppppp999fgcoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ppppp999fgcoder)](https://holopin.io/@ppppp999fgcoder)
+
+
+### Plans
+- 🔭 I’m currently working on becoming a **Web Developer**
+- 🌱 I’m currently learning **React & Nextjs**
+- 🖼️ I'm currently improving my Animating & Transition skills using **Framer Motion**
